@@ -6,20 +6,11 @@ figure,
 footer,
 header,
 hgroup,
-main,AJenkins1001.github.io/index.html
+main,
 nav,
 section,
 summary {
     display: block;
-}
-
-audio:not([controls]) {
-    display: none;
-    height: 0;
-}
-
-[hidden] {
-    display: none;
 }
 
 html {
