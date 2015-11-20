@@ -9,6 +9,13 @@ body {
 FONT
 ******************************************/
 
+h1 {
+    font-size: 3em;
+    margin: 0.67em 0;
+}
+
+
+
 h2 {
   font-size: 1.75em;
   margin: -5px 0 0em;
