@@ -12,13 +12,32 @@
 
 #overlay img {
  margin-top: 10%; 
- 
+
 }
 
 #overlay p {
  color:white; 
 }
 
+
+#content {
+	width: 290px;
+	float: left;
+	padding: 5px 15px;
+}
+
+#middle {
+	width: 294px; /* Account for margins + border values */
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+
+#right {
+	width: 270px;
+	padding: 5px 15px;
+	float: left;
+}
 
 
 
