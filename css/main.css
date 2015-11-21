@@ -1,18 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 
-.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
-}
 
-.header h1 {
-  position: relative;
-  top: 18px;
-  left: 10px;
-}
 
 body { 
   font-family: 'Open Sans', sans-serif;
