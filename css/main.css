@@ -7,7 +7,7 @@
 }
 
 .header img {
-  position: relative;
+  float: right;
   
 }
 
@@ -23,6 +23,7 @@ FONT
 h1 {
   font-size: 3em;
   margin: -5px 0 0em;
+  font-weight: bold;
   
 }
 
