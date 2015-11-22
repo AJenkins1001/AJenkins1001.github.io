@@ -1,17 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
-
-.header h1 {
-  float: left;
-  
-}
-
-.header img {
-  position: relative;
-  
-}
-
-
 body { 
   font-family: 'Open Sans', sans-serif;
   color: #666;
@@ -21,7 +9,7 @@ body {
 FONT
 ******************************************/
 h1 {
-  font-size: 3em;
+  font-size: 4em;
   margin: -5px 0 0em;
   font-weight: bold;
   
