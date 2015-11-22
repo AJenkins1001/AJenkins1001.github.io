@@ -1,6 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 
+.header h1 {
+  float: left;
+  
+}
+
+.header img {
+  position: relative;
+  
+}
 
 
 body { 
