@@ -104,14 +104,6 @@ header {
 	padding: 5px 15px;
 }
 
-#map {
-	width: 584px;
-	float: left;
-	padding: 5px 15px;
-}
-
-
-
 #middle {
 	width: 294px; /* Account for margins + border values */
 	float: left;
